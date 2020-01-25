@@ -4,7 +4,6 @@
 #
 %define		pdir	Import
 %define		pnam	Into
-%include	/usr/lib/rpm/macros.perl
 Summary:	Import::Into - import packages into other packages
 Summary(pl.UTF-8):	Import::Into - import pakietów do innych pakietów
 Name:		perl-Import-Into
